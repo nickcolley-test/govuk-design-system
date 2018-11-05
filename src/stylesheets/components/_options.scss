@@ -11,7 +11,6 @@
 
 .app-options__table {
   @include govuk-media-query(mobile) {
-    .govuk-table__header,
     .govuk-table__cell {
       word-break: break-word;
     }
